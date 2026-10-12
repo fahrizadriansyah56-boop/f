@@ -1,0 +1,6 @@
+{
+  "name": "Damboris - komunitas kepemudaan",
+  "description": "Website resmi komunitas Damboris: Kolaborasi, Kreativitas, dan Koneksi Tanpa Batas. Beranda, profil tentang kami, galeri momen, dan pendaftaran anggota.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
